@@ -3,8 +3,10 @@ JavaScript Interview Problem List (Startup / Mid-Level) with LeetCode Numbers
 Array Problems
 
 1. Two Sum — LeetCode 1
+   - Done
 2. Three Sum — LeetCode 15
 3. Best Time to Buy and Sell Stock — LeetCode 121
+    - Done
 4. Maximum Subarray — LeetCode 53
 5. Product of Array Except Self — LeetCode 238
 6. Missing Number — LeetCode 268
