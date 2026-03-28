@@ -43,7 +43,7 @@ String Problems
 
 HashMap / Set Problems
 26. Contains Duplicate — LeetCode 217
-27. Longest Consecutive Sequence — LeetCode 128
+27. Longest Common Prefix - LeetCode 14
 28. Subarray Sum Equals K — LeetCode 560
 29. Contiguous Array (Equal 0 and 1) — LeetCode 525
 30. Top K Frequent Elements — LeetCode 347
@@ -63,6 +63,7 @@ Sliding Window Problems
 Additional Important Problems
 41. Valid Parentheses — LeetCode 20
 42. Merge Intervals — LeetCode 56
+    - Done
 43. Insert Interval — LeetCode 57
 44. Meeting Rooms — LeetCode 252
 45. Kth Largest Element in Array — LeetCode 215
