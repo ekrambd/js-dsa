@@ -11,6 +11,7 @@ Array Problems
    - Done
 5. Product of Array Except Self — LeetCode 238
 6. Missing Number — LeetCode 268
+   - Done
 7. Find All Duplicates in Array — LeetCode 442
 8. Remove Duplicates from Sorted Array — LeetCode 26
 9. Move Zeroes — LeetCode 283
