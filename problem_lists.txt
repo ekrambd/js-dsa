@@ -19,6 +19,7 @@ Array Problems
 9. Move Zeroes — LeetCode 283
    - Done
 10. Rotate Array — LeetCode 189
+    - Done
 11. Merge Sorted Array — LeetCode 88
 12. Majority Element — LeetCode 169
 13. Find Second Largest Number — (Custom / Common Interview)
