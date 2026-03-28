@@ -15,6 +15,7 @@ Array Problems
 7. Find All Duplicates in Array — LeetCode 442
    - Done
 8. Remove Duplicates from Sorted Array — LeetCode 26
+   - Done
 9. Move Zeroes — LeetCode 283
 10. Rotate Array — LeetCode 189
 11. Merge Sorted Array — LeetCode 88
