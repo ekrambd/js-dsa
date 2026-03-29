@@ -78,3 +78,4 @@ Additional Important Problems
 49. Find First and Last Position — LeetCode 34
    - Done
 50. Minimum in Rotated Sorted Array — LeetCode 153
+   - Done
