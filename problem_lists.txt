@@ -35,6 +35,7 @@ String Problems
 17. Valid Palindrome — LeetCode 125
 18. Valid Anagram — LeetCode 242
 19. Longest Substring Without Repeating Characters — LeetCode 3
+    - Solve
 20. Longest Common Prefix — LeetCode 14
 21. Group Anagrams — LeetCode 49
 22. First Unique Character in String — LeetCode 387
