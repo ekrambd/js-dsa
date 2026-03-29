@@ -45,11 +45,13 @@ String Problems
 
 HashMap / Set Problems
 26. Contains Duplicate — LeetCode 217
+   - Done
 27. Longest Common Prefix - LeetCode 14
 28. Subarray Sum Equals K — LeetCode 560
 29. Contiguous Array (Equal 0 and 1) — LeetCode 525
 30. Top K Frequent Elements — LeetCode 347
 31. Intersection of Two Arrays — LeetCode 349
+   - Done
 32. Find Duplicate Number — LeetCode 287
    - Done
 33. First Missing Positive — LeetCode 41
