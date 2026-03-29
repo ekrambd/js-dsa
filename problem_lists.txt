@@ -52,6 +52,7 @@ HashMap / Set Problems
 32. Find Duplicate Number — LeetCode 287
    - Done
 33. First Missing Positive — LeetCode 41
+   - Done
 34. Two Sum using HashMap — LeetCode 1
 
 Sliding Window Problems
