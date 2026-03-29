@@ -53,7 +53,7 @@ HashMap / Set Problems
 32. Find Duplicate Number — LeetCode 287
    - Done
 33. First Missing Positive — LeetCode 41
-34. Two Sum using HashMap — LeetCode 1
+34. Contains Duplicate II - LeetCode 219
 
 Sliding Window Problems
 35. Longest Substring Without Repeating Characters — LeetCode 3
