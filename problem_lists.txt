@@ -33,6 +33,7 @@ String Problems
 16. Reverse String — LeetCode 344
    - Done
 17. Valid Palindrome — LeetCode 125
+   - Done
 18. Valid Anagram — LeetCode 242
 19. Longest Substring Without Repeating Characters — LeetCode 3
     - Solve
