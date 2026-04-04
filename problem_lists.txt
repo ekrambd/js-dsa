@@ -62,6 +62,7 @@ HashMap / Set Problems
 Sliding Window Problems
 35. Longest Substring Without Repeating Characters — LeetCode 3
 36. Maximum Average Subarray — LeetCode 643
+   - Done
 37. Minimum Size Subarray Sum — LeetCode 209
 38. Sliding Window Maximum — LeetCode 239
 39. Permutation in String — LeetCode 567
