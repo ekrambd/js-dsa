@@ -64,6 +64,7 @@ Sliding Window Problems
 36. Maximum Average Subarray — LeetCode 643
    - Done
 37. Minimum Size Subarray Sum — LeetCode 209
+   - Done
 38. Sliding Window Maximum — LeetCode 239
 39. Permutation in String — LeetCode 567
 40. Find All Anagrams in String — LeetCode 438
