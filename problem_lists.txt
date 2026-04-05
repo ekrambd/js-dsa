@@ -1,85 +1,59 @@
-JavaScript Interview Problem List (Startup / Mid-Level) with LeetCode Numbers
+JavaScript Interview Problem List (Startup / Mid-Level) — Re-Ranked
 
 Array Problems
-
-1. Two Sum — LeetCode 1
-   - Done
+1. Two Sum — LeetCode 1 - Done
 2. Three Sum — LeetCode 15
-3. Best Time to Buy and Sell Stock — LeetCode 121
-    - Done
-4. Maximum Subarray — LeetCode 53
-   - Done
+3. Best Time to Buy and Sell Stock — LeetCode 121 - Done
+4. Maximum Subarray — LeetCode 53 - Done
 5. Product of Array Except Self — LeetCode 238
-6. Missing Number — LeetCode 268
-   - Done
-7. Find All Duplicates in Array — LeetCode 442
-   - Done
-8. Remove Duplicates from Sorted Array — LeetCode 26
-   - Done
-9. Move Zeroes — LeetCode 283
-   - Done
-10. Rotate Array — LeetCode 189
-    - Done
-11. Merge Sorted Array — LeetCode 88
-    - Done
-12. Majority Element — LeetCode 169
-   - Done
+6. Missing Number — LeetCode 268 - Done
+7. Find All Duplicates in Array — LeetCode 442 - Done
+8. Remove Duplicates from Sorted Array — LeetCode 26 - Done
+9. Move Zeroes — LeetCode 283 - Done
+10. Rotate Array — LeetCode 189 - Done
+11. Merge Sorted Array — LeetCode 88 - Done
+12. Majority Element — LeetCode 169 - Done
 13. Find Second Largest Number — (Custom / Common Interview)
 14. Longest Consecutive Sequence — LeetCode 128
-15. Container With Most Water — LeetCode 11
-    - Done
+15. Container With Most Water — LeetCode 11 - Done
+
 
 String Problems
-16. Reverse String — LeetCode 344
-   - Done
-17. Valid Palindrome — LeetCode 125
-   - Done
+16. Reverse String — LeetCode 344 - Done
+17. Valid Palindrome — LeetCode 125 - Done
 18. Valid Anagram — LeetCode 242
-19. Longest Substring Without Repeating Characters — LeetCode 3
-    - Solve
+19. Longest Substring Without Repeating Characters — LeetCode 3 - Done
 20. Longest Common Prefix — LeetCode 14
 21. Group Anagrams — LeetCode 49
-22. First Unique Character in String — LeetCode 387
-   - Done
-23. String Compression — LeetCode 443
-24. Reverse Words in String — LeetCode 151
-25. Minimum Window Substring — LeetCode 76
+22. First Unique Character in String — LeetCode 387 - Done
+23. Reverse Words in String — LeetCode 151
+
 
 HashMap / Set Problems
-26. Contains Duplicate — LeetCode 217
-   - Done
-27. Longest Common Prefix - LeetCode 14
-28. Subarray Sum Equals K — LeetCode 560
-29. Contiguous Array (Equal 0 and 1) — LeetCode 525
-30. Top K Frequent Elements — LeetCode 347
-31. Intersection of Two Arrays — LeetCode 349
-   - Done
-32. Find Duplicate Number — LeetCode 287
-   - Done
-33. First Missing Positive — LeetCode 41
-34. Contains Duplicate II - LeetCode 219
+24. Contains Duplicate — LeetCode 217 - Done
+25. Longest Common Prefix — LeetCode 14
+26. Subarray Sum Equals K — LeetCode 560
+27. Contiguous Array (Equal 0 and 1) — LeetCode 525
+28. Top K Frequent Elements — LeetCode 347
+29. Intersection of Two Arrays — LeetCode 349 - Done
+30. Find Duplicate Number — LeetCode 287 - Done
+31. Contains Duplicate II — LeetCode 219
+
 
 Sliding Window Problems
-35. Longest Substring Without Repeating Characters — LeetCode 3
-36. Maximum Average Subarray — LeetCode 643
-   - Done
-37. Minimum Size Subarray Sum — LeetCode 209
-   - Done
-38. Sliding Window Maximum — LeetCode 239
-39. Permutation in String — LeetCode 567
-40. Find All Anagrams in String — LeetCode 438
+32. Maximum Average Subarray — LeetCode 643 - Done
+33. Minimum Size Subarray Sum — LeetCode 209 - Done
+34. Permutation in String — LeetCode 567
+35. Find All Anagrams in String — LeetCode 438
+
 
 Additional Important Problems
-41. Valid Parentheses — LeetCode 20
-42. Merge Intervals — LeetCode 56
-    - Done
-43. Insert Interval — LeetCode 57
-44. Meeting Rooms — LeetCode 252
-45. Kth Largest Element in Array — LeetCode 215
-46. Find Peak Element — LeetCode 162
-47. Search in Rotated Sorted Array — LeetCode 33
-48. Binary Search — LeetCode 704
-49. Find First and Last Position — LeetCode 34
-   - Done
-50. Minimum in Rotated Sorted Array — LeetCode 153
-   - Done
+36. Valid Parentheses — LeetCode 20
+37. Merge Intervals — LeetCode 56 - Done
+38. Insert Interval — LeetCode 57
+39. Kth Largest Element in Array — LeetCode 215
+40. Find Peak Element — LeetCode 162
+41. Search in Rotated Sorted Array — LeetCode 33
+42. Binary Search — LeetCode 704
+43. Find First and Last Position — LeetCode 34 - Done
+44. Minimum in Rotated Sorted Array — LeetCode 153 - Done
