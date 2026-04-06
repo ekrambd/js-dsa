@@ -57,3 +57,5 @@ Additional Important Problems
 42. Binary Search — LeetCode 704
 43. Find First and Last Position — LeetCode 34 - Done
 44. Minimum in Rotated Sorted Array — LeetCode 153 - Done
+45. Second Minimum Number From Array
+   - Done
