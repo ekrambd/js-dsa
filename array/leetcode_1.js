@@ -9,6 +9,6 @@ var twoSum = function(nums,target){
             return [map.get(comp),i];
         }
         map.set(nums[i],i);
-    }    
+    }        
 };
 console.log(twoSum([2,7,11,15],9));

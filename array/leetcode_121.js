@@ -8,10 +8,10 @@ var maxProfit = function(prices) {
             buy = prices[i];
         }else{
             let profit = prices[i] - buy;
-            maxProfit = Math.max(profit,maxProfit);
+            maxProfit = Math.max(maxProfit,profit);
         }
     }
-    return maxProfit;    
+    return maxProfit;        
 };
 
 console.log(maxProfit([7,1,5,3,6,4]));

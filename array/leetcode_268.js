@@ -10,9 +10,9 @@ var missingNumber = function(nums) {
     for(let i = 0; i <= nums.length; i++)
     {
         sum+=i;
-    }    
+    }
     let result = sum - actualSum;
-    return result;     
+    return result;             
 };
 
 console.log(missingNumber([3,0,1]));
