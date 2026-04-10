@@ -5,7 +5,7 @@ Array Problems
 2. Three Sum — LeetCode 15 - Done
 3. Best Time to Buy and Sell Stock — LeetCode 121 - Done
 4. Maximum Subarray — LeetCode 53 - Done
-5. Product of Array Except Self — LeetCode 238
+5. Product of Array Except Self — LeetCode 238 - Done
 6. Missing Number — LeetCode 268 - Done
 7. Find All Duplicates in Array — LeetCode 442 - Done
 8. Remove Duplicates from Sorted Array — LeetCode 26 - Done
